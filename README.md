@@ -45,7 +45,7 @@ options:
 - From AUR: `yay -S easyeffects-record`
 - Manual:
     - Install all dependencies with your package manager
-    - Clone this repository: `git clone https://github.com/mzivic7/easyeffects-record`
+    - Clone this repository: `git clone https://github.com/sparklost/easyeffects-record`
     - `cd easyeffects-record`
     - Copy script to system: `sudo cp easyeffects-record.py /usr/local/sbin/easyeffects-record`
     - Make it executable: `sudo chmod +x /usr/local/sbin/easyeffects-record`
